@@ -1,0 +1,11 @@
+google-play-scraper
+pandas
+numpy
+requests
+nltk
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+pillow
+imbalanced-learn
