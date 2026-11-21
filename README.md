@@ -10,4 +10,6 @@ Proyek Dicoding oleh Ilham Jaya Saputra. Proyek ini menganalisis sentimen dalam 
 
 Jika sudah memiliki CSV ulasan, langsung buka notebook analisis dan sesuaikan lokasi berkas pada sel pemuatan data. Label InSet berasal dari pencocokan kata, bukan anotasi manual. Sarkasme dan penggunaan kata dalam konteks yang tidak biasa perlu ditafsirkan dengan hati-hati.
 
+[Buka notebook analisis sentimen di Google Colab](https://colab.research.google.com/drive/1hseydU38oYpOnyveQ7vRRZ0Z8Irb1Kxh?usp=sharing).
+
 [Proyek Mobile JKN di portofolio Ilham Jaya Saputra](https://www.ilhamjayas.my.id/#pc-sentiment)
